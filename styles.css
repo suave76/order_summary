@@ -84,7 +84,7 @@ a:hover {
 button {
   display: block;
   width: 20.42575rem;
-  margin: 1rem 0;
+  margin: 2rem 0 1rem;
   padding: 1rem 0;
   background-color: hsl(245, 75%, 52%);
   color: hsl(225, 100%, 98%);
